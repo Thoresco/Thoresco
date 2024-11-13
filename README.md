@@ -56,6 +56,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thoresco/Thoresco/output/snake.svg" alt="Snake animation" />
-
-###
