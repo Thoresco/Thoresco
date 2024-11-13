@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👋 Olá! Sou um estudante de Engenharia de Software pela Estácio, focado em aprender e crescer no mundo da programação. Atualmente, estou me aprofundando em linguagens como Python, JavaScript e PHP, entre outras, com o objetivo de expandir minhas habilidades e explorar diversas áreas da tecnologia.<br><br>🌱 Estou sempre em busca de novos desafios e oportunidades para aplicar o que aprendo, melhorar minhas habilidades e contribuir com projetos interessantes. Adoro resolver problemas e aprender algo novo a cada dia!<br><br>🚀 No GitHub, compartilho um pouco dessa jornada, desde os primeiros projetos e experimentos até o desenvolvimento de soluções mais complexas.</h4>
+<h4 align="left">👋 Olá! Sou um estudante de <b>Engenharia de Software</b> pela Estácio, focado em aprender e crescer no mundo da programação. Atualmente, estou me aprofundando em linguagens como Python, JavaScript e PHP, entre outras, com o objetivo de expandir minhas habilidades e explorar diversas áreas da tecnologia.<br><br>🌱 Estou sempre em busca de novos desafios e oportunidades para aplicar o que aprendo, melhorar minhas habilidades e contribuir com projetos interessantes. Adoro resolver problemas e aprender algo novo a cada dia!<br><br>🚀 No GitHub, compartilho um pouco dessa jornada, desde os primeiros projetos e experimentos até o desenvolvimento de soluções mais complexas.</h4>
 
 ###
 
