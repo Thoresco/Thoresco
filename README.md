@@ -1,3 +1,34 @@
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<h4 align="left">👋 Olá! Sou um estudante de Engenharia de Software pela Estácio, focado em aprender e crescer no mundo da programação. Atualmente, estou me aprofundando em linguagens como Python, JavaScript e PHP, entre outras, com o objetivo de expandir minhas habilidades e explorar diversas áreas da tecnologia.<br><br>🌱 Estou sempre em busca de novos desafios e oportunidades para aplicar o que aprendo, melhorar minhas habilidades e contribuir com projetos interessantes. Adoro resolver problemas e aprender algo novo a cada dia!<br><br>🚀 No GitHub, compartilho um pouco dessa jornada, desde os primeiros projetos e experimentos até o desenvolvimento de soluções mais complexas.</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="www.linkedin.com/in/rivaldo-monte-alegre-júnior" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="Thoresco#1674" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Thoresco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/rivaldomontealegre/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Status</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -24,24 +55,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/rivaldo-monte-alegre-júnior" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
-  </a>
-  <a href="Thoresco#1674" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="55" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Thoresco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="67" height="55" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Thoresco/Thoresco/output/snake.svg" alt="Snake animation" />
 
