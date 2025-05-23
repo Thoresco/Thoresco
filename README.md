@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/rivaldo-monte-alegre-júnior" target="_blank">
+  <a href="www.linkedin.com/in/rivaldo-monte-alegre-júnior/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="Thoresco#1674" target="_blank">
